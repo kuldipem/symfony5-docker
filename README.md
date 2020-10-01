@@ -1,5 +1,5 @@
 # Symfony5 Development Docker
-This is simplest way to run Symfony5 without modifying your local machine environement to develop your new Symfony5 project. 
+This is the simplest way to run Symfony5 without modifying your local machine environment to develop your new Symfony5 project.
 
 [![Build Status](https://travis-ci.org/coloso/symfony-docker.svg?branch=master)](https://travis-ci.org/coloso/symfony-docker)
 ### Prerequisites
